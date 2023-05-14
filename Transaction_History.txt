@@ -1,0 +1,22 @@
+
+
+
+
+                        *Welcome to ATM Service E-PLatform*
+
+Please enter your pin:1234
+
+                        *Available Transactions *
+1.Withdraw
+2.Deposit
+3.Check Balance
+Please select the option:3
+Your balance is Rs.5000.00
+Do You wish to perform another Transaction? 1
+Enter the amount:500
+you have withdrawn Rs. 500 your new balance is 4500.00
+Do You wish to perform another Transaction?  0
+     
+
+
+ 
